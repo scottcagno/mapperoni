@@ -1,10 +1,4 @@
-/*
- * // Copyright (c) 2021. Scott Cagno. All rights reserved.
- * // Use of this source code is governed by a BSD-style (clause 3)
- * // license that can be found in the root of this project in the LICENSE file.
- */
-
-// +build aix darwin dragonfly freebsd linux netbsd openbsd solaris, !windows
+//+build aix darwin dragonfly freebsd linux netbsd openbsd solaris, !windows
 
 package mmap
 
